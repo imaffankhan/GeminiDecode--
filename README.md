@@ -15,3 +15,6 @@ Healthcare Industry: In the healthcare industry, hospitals and clinics leverage 
 
 Technical Architecture
 
+![image](https://github.com/user-attachments/assets/0e4d11f3-85aa-408f-a91b-ae2fd11eeac2)
+
+
