@@ -18,9 +18,10 @@ if uploaded_file is not None:
     image = Image.open(uploaded_file)
     st.image(image, caption="Uploaded Image", use_container_width=True)  # updated parameter
 submit = st.button("Tell me about the document")
-input_prompt="""
-You are expert in understanding invoices.
-We will upload a image as invoice and you will have to answer any questions based on the uploaded invoice image.
+input_prompt = """
+You are an expert document analyst.
+An image of a document will be uploaded. Please extract and summarize all key information, such as titles, dates, names, numbers, tables, and any other relevant details. 
+If the document is an invoice, receipt, ID, certificate, form, or any other type, adapt your analysis accordingly and provide a clear, structured summary of its contents.
 """
 #initilize streamlit app
 st.set_page_config(page_title="GeminiDecode: Multilanguage Document Extraction by Gemini Pro")
