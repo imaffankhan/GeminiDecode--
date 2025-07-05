@@ -14,6 +14,12 @@ Scenario:3
 Healthcare Industry: In the healthcare industry, hospitals and clinics leverage GeminiDecode to extract patient information from multilingual medical records. This functionality is crucial for providing high-quality patient care, as it ensures that healthcare providers have quick and accurate access to critical data, regardless of language barriers. By streamlining the management of patient records, medical histories, and treatment plans, GeminiDecode helps healthcare professionals deliver timely and informed care, ultimately improving patient outcomes.
 
 Technical Architecture
+![image](https://github.com/user-attachments/assets/cdcf876f-b01e-488a-8bfe-1edff17d18c8)
+![image](https://github.com/user-attachments/assets/b8fe48a6-b571-4c13-85ff-dcc0d9bd0ef6)
+![image](https://github.com/user-attachments/assets/c6b2045a-759f-4ded-8ea8-bae92c4adb26)
+
+
+
 
 ![image](https://github.com/user-attachments/assets/0e4d11f3-85aa-408f-a91b-ae2fd11eeac2)
 ![image](https://github.com/user-attachments/assets/1e3e0bc7-829c-48e3-b22c-b0b62d956c4c)
